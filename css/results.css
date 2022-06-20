@@ -1,0 +1,38 @@
+table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: #F8C202;
+    color: #000000;
+    border: 16px solid #ffffff;
+    border-radius: 20px;
+    }
+    th {
+    font-size: 18px;
+    padding: 10px;
+    }
+    td {
+    background: #ffffff;
+    padding: 10px;
+    }
+
+    .other-rows{
+        background: #ffffff;
+        border-radius: 10px;
+    }
+
+    .other-th{
+        border-radius: 10px;
+    }
+
+    .copy-button{
+        background: #ffffff;
+        border-radius: 15px;
+        margin-top: 2%;
+    }
+    .delete-button{
+        background: #ff0000;
+        border-radius: 15px;
+        margin-top: 2%;
+    }
